@@ -30,9 +30,13 @@ Model fit or the R-Squared value for the model is 0.7149, which means our model 
 By analysing suspension coils data and creating summary, following interpretation can be made to answer the asked question:
 
 Question: 
+
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 Answers: 
+
+
+
 ![]( Images/Del2_2.png)
 
 
